@@ -27,3 +27,17 @@ ANY USAGE OF HANACLEANER ASSUMES THAT YOU HAVE UNDERSTOOD AND AGREED THAT:
    SAP HANA System Administration Workshops 
 8. HANACleaner is not providing any recommendations, all flags shown in the documentation (see point 6.) are only examples  
    For recommendations see SAP HANA Administration Workshops or other documentation, like e.g. SAP Note [2400024](https://launchpad.support.sap.com/#/notes/=2400024)
+SAP Note for quick reference -
+Cleanup of backup catalog entries	2096851
+Cleanup of backups	1642148
+Cleanup of trace files	2380176
+Cleanup of backup.log and backint.log	1642148
+Cleanup of SAP HANA alerts	2147247
+Cleanup of free log segments	2083715
+Cleanup of internal events	2147247
+Cleanup of multiple row store containers	2222277
+Cleanup of data file fragmentation	1870858
+Cleanup of SAP HANACleaner logs	2399996
+Optimize compression of tables not compressed	2112604
+Optimize compression of tables with columns not compressed	2112604
+Optimize compression of tables with large UDIV overhead	2112604
